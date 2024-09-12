@@ -1,0 +1,101 @@
+#foto{
+    width: 280px;
+    height: 250px;
+    border-radius: 50%;
+    display: flex;
+    margin-left: 0%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+.cabecalho{
+    border-color: black ;
+    border-width: 6px;
+    border-style: ridge;
+    width: 60%;
+    border-image: url(".perfil3.jpg") 150 round;
+    display: block;
+}
+.info{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+    line-height: 2em;
+    margin-bottom: 2%;
+}
+.info{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#nome{
+    letter-spacing: 2px;
+    line-height: 1.5em;
+    font-weight: bold;
+}
+.nome{
+    letter-spacing: 5px;
+    line-height: 1.5em;
+}
+.Sobre{
+    border-color: black ;
+    border-width: 6px;
+    border-style: groove;
+    width: 60%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+    line-height: 2em;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    text-align: center;
+}
+.Formacão{
+    border-color: black ;
+    border-width: 5px;
+    border-style: ridge;
+    width: 60%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+    line-height: 2em;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    text-align: center;
+
+}
+.Objetivo{
+    border-color: black ;
+    border-width: 5px;
+    border-style: ridge;
+    width: 60%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+    line-height: 2em;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    text-align: center;
+
+}
+.mechama{
+    border-color: black ;
+    border-width: 5px;
+    border-style: ridge;
+    width: 60%;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+    line-height: 2em;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    text-align: center;
+
+}
+
+
